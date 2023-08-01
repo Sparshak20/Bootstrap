@@ -1,0 +1,16 @@
+.container{
+    border: 5px solid yellow;
+}
+.row{
+    border: 10px solid orange;
+}
+
+.box-1{
+    /* min-height: 250px; */
+    background: lightcoral;
+}
+
+.box-2{
+    /* min-height: 250px; */
+    background: lightskyblue;
+}
